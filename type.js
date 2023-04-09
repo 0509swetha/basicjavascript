@@ -1,0 +1,16 @@
+var a= 10;
+console.log("integer:",a);
+var name="swetha";
+console.log("string:",name);
+var x="m";
+console.log("character:",x);
+var p="this is a pen";
+console.log("string:",p);
+var a=10;
+var b="swetha";
+var c="23";
+var d=2.3;
+console.log(typeof(a));
+console.log(typeof(b));
+console.log(typeof(c));
+console.log(typeof(d));
